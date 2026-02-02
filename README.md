@@ -12,7 +12,7 @@ A macropad with 6 keys and a knob to control volume etc. The little cutout at th
 - 4x M3x16mm screw
 
 # Images
-![image alt](https://github.com/Jan170209/Jans-Hackpad/blob/202316d058ca9f72a10f642127cf6abed49f4684/Pictures/HackpadPicture.png)
-![image alt](https://github.com/Jan170209/Jans-Hackpad/blob/202316d058ca9f72a10f642127cf6abed49f4684/Pictures/Case.png)
+![image alt](https://github.com/Jan170209/Jans-Hackpad/blob/7977a3a9bc4e81ec89f7942622cc061db8175723/Pictures/HackpadChangedTop.png)
+![image alt](https://github.com/Jan170209/Jans-Hackpad/blob/7977a3a9bc4e81ec89f7942622cc061db8175723/Pictures/CaseChangedTop.png)
 ![image alt](https://github.com/Jan170209/Jans-Hackpad/blob/202316d058ca9f72a10f642127cf6abed49f4684/Pictures/PCB.png)
 ![image alt](https://github.com/Jan170209/Jans-Hackpad/blob/202316d058ca9f72a10f642127cf6abed49f4684/Pictures/Schematic.png)

@@ -8,6 +8,8 @@ A macropad with 6 keys and a knob to control volume etc. The little cutout at th
 - 6x Keycaps
 - 1x EC11 Rotary encoder
 - 1x Seeed XIAO RP2040
+- 4x M3x5x4 heatset inserts
+- 4x M3x16mm screw
 
 # Images
 ![image alt](https://github.com/Jan170209/Jans-Hackpad/blob/202316d058ca9f72a10f642127cf6abed49f4684/Pictures/HackpadPicture.png)
